@@ -4,8 +4,8 @@
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Abaas Husien Ali </h1>
-            <h2> ID: 0094</h2>
+            <h1> Deeqa Abdirahin Mohamed </h1>
+            <h2> ID: 0096</h2>
             <table border="25">
                 <tr>
                     <th>Maadada </th>
@@ -16,24 +16,24 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td> 85
-                        <td> B+
+                    <td> LAMA HAYO
+                        <td> Z
                         <td> COMPUTER</td>
                     </td>
            
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> 60
-                        <td> D
+                    <td> LAMA HAYO
+                        <td> Z
                     </td>
                     <td> COMPUTER
                     </td>
           
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td> 80
-                        <td> B
+                    <td> LAMA HAYO
+                        <td> Z
                     </td>
                     <td> COMPUTER
                     </td>
@@ -48,3 +48,4 @@
                
                   
                    
+
